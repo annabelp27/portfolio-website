@@ -4,14 +4,23 @@ html {
 }
 
 body {
-   font-family: Georgia, 'Times New Roman', Times, serif, serif;
+  font-family: 'Barriecito', serif;
+text-emphasis-color: darkgreen;
   font-size: 16px;
   display: flex;
   background-color: darkseagreen;
-  min-height: 100vh;
   margin: 0;
 }
-image {
-  position: absolute; right: 100px
+img {
+ position: absolute;
+  top: 8px;
+  right: 200px;
 }
-
+h4 {
+  position: absolute;
+  top: 250px;
+  right: 264px;
+}
+p { 
+position:absolutez
+}
